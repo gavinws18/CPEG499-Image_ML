@@ -23,9 +23,14 @@ The following libraries were used:
 -io
 -picamera
 
+It is recommended to use the default mode as some of the other modes still have some bugs to work out.
+Block Text and Single line mode work fairly well however.
+
 How to use the program:
 
-Upon starting the program you are first presented with a row of target languages. If the target language is latin based, choose the "latin based" option.
+Upon starting the program you are presented with 5 different modes: Default, Block Text, Single Line, Single Word, and Column Text. These different modes
+all use a different page segmentation mode. Default works well with a variety of text while the other modes are more specific to those forms of text.
+After choosing a mode you will be give a choice of target languages in the top row. If the target language is latin based, choose the "latin based" option.
 Otherwise select the language you are targeting. After selecting a target language you will then select a destination language below. This is the language the
 input will be translated to. 
 
@@ -39,6 +44,7 @@ This process is repeated constantly with the new output being added to the text 
 
 The "reset" button can be used at any time to go back to the language select menu.
 The "stop" button can be used at any time to shut down the program.
+The "pause" button currently has no functionality.
 
 Current Target Language Options:
 
