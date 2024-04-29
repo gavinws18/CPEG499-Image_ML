@@ -1,10 +1,10 @@
-ELEG/CPEG-498/499 Image_ML Senior Design Project
+# ELEG/CPEG-498/499 Image_ML Senior Design Project
 
-Gavin Schrader, Paul Zaloga, JT Farro
+## Gavin Schrader, Paul Zaloga, JT Farro
 
 This Python program was designed to detect text in a foreign language, and then translate the detected text into a desired language.
 
-The following components were used:
+**The following components were used:**
 
 -Raspberry Pi
 -PiCam
@@ -12,7 +12,7 @@ The following components were used:
 -Power Supply
 -Heat Sink
 
-The following libraries were used:
+**The following libraries were used:**
 
 -tkinter
 -googletrans
@@ -26,7 +26,7 @@ The following libraries were used:
 It is recommended to use the default mode as some of the other modes still have some bugs to work out.
 Block Text and Single line mode work fairly well however.
 
-How to use the program:
+**How to use the program:**
 
 Upon starting the program you are presented with 5 different modes: Default, Block Text, Single Line, Single Word, and Column Text. These different modes
 all use a different page segmentation mode. Default works well with a variety of text while the other modes are more specific to those forms of text.
@@ -46,7 +46,7 @@ The "reset" button can be used at any time to go back to the language select men
 The "stop" button can be used at any time to shut down the program.
 The "pause" button currently has no functionality.
 
-Current Target Language Options:
+**Current Target Language Options:**
 
 -latin based
 -arabic
@@ -55,7 +55,7 @@ Current Target Language Options:
 -chinese simplified (needs fixing)
 -japanese (untested)
 
-Current Destination Language Options:
+**Current Destination Language Options:**
 
 -english
 -spanish
