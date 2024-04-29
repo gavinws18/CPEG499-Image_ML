@@ -6,15 +6,11 @@ This Python program was designed to detect text in a foreign language, and then 
 
 **The following components were used:**
 
--Raspberry Pi
--PiCam
--Touch Screen 
--Power Supply
--Heat Sink
+Raspberry Pi, PiCam, Touch Screen, Power Supply, Heat Sink
 
 **The following libraries were used:**
 
--tkinter
+-tkinter <br>
 -googletrans
 -pytesseract
 -opencv
