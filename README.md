@@ -11,13 +11,13 @@ Raspberry Pi, PiCam, Touch Screen, Power Supply, Heat Sink
 **The following libraries were used:**
 
 -tkinter <br>
--googletrans
--pytesseract
--opencv
--PIL
--sys
--io
--picamera
+-googletrans <br>
+-pytesseract <br>
+-opencv <br>
+-PIL <br>
+-sys <br>
+-io <br>
+-picamera <br>
 
 It is recommended to use the default mode as some of the other modes still have some bugs to work out.
 Block Text and Single line mode work fairly well however.
@@ -38,29 +38,29 @@ After choosing both languages, capture mode will start.
 The program will capture a new image approximately every second and display the results to the text box along with a confidence value.
 This process is repeated constantly with the new output being added to the text box every iteration.
 
-The "reset" button can be used at any time to go back to the language select menu.
-The "stop" button can be used at any time to shut down the program.
-The "pause" button currently has no functionality.
+The "reset" button can be used at any time to go back to the language select menu. <br>
+The "stop" button can be used at any time to shut down the program. <br>
+The "pause" button currently has no functionality. <br>
 
 **Current Target Language Options:**
 
--latin based
--arabic
--russian
--hindi (untested)
--chinese simplified (needs fixing)
--japanese (untested)
+-latin based <br>
+-arabic <br>
+-russian <br>
+-hindi (untested) <br>
+-chinese simplified (needs fixing) <br>
+-japanese (untested) <br>
 
 **Current Destination Language Options:**
 
--english
--spanish
--french
--german
--italian
--portugese
--arabic
--russian
--hindi
--chinese simplified
--japanese
+-english <br>
+-spanish <br>
+-french <br>
+-german <br>
+-italian <br>
+-portugese <br>
+-arabic <br>
+-russian <br>
+-hindi <br>
+-chinese simplified <br>
+-japanese <br>
