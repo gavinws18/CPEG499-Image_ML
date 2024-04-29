@@ -10,14 +10,14 @@ Raspberry Pi, PiCam, Touch Screen, Power Supply, Heat Sink
 
 **The following libraries were used:**
 
--tkinter <br>
--googletrans <br>
--pytesseract <br>
--opencv <br>
--PIL <br>
--sys <br>
--io <br>
--picamera <br>
+tkinter <br>
+googletrans <br>
+pytesseract <br>
+opencv <br>
+PIL <br>
+sys <br>
+io <br>
+picamera <br>
 
 It is recommended to use the default mode as some of the other modes still have some bugs to work out.
 Block Text and Single line mode work fairly well however.
@@ -44,23 +44,23 @@ The "pause" button currently has no functionality. <br>
 
 **Current Target Language Options:**
 
--latin based <br>
--arabic <br>
--russian <br>
--hindi (untested) <br>
--chinese simplified (needs fixing) <br>
--japanese (untested) <br>
+Latin Based <br>
+Arabic <br>
+Russian <br>
+Hindi (untested) <br>
+Chinese Simplified (needs fixing) <br>
+Japanese (untested) <br>
 
 **Current Destination Language Options:**
 
--english <br>
--spanish <br>
--french <br>
--german <br>
--italian <br>
--portugese <br>
--arabic <br>
--russian <br>
--hindi <br>
--chinese simplified <br>
--japanese <br>
+English <br>
+Spanish <br>
+French <br>
+German <br>
+Italian <br>
+Portugese <br>
+Arabic <br>
+Russian <br>
+Hindi <br>
+Chinese Simplified <br>
+Japanese <br>
