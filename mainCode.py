@@ -1,5 +1,8 @@
 import tkinter as tk
 import subprocess
+import os
+
+os.chdir("/home/seniordesign/Documents/seniordesign")
 
 def run_program1():
     # Run program 1
